@@ -8,7 +8,7 @@
 
 ## Download Caskaydia Cove Nerd Font :
 
-### https://www.nerdfonts.com/font-downloads
+#### https://www.nerdfonts.com/font-downloads
 
 ## Oh My Posh Installation :
 
@@ -20,4 +20,4 @@
 
 #### 1) Copy `PowerShell Folder` from repository and paste it inside `Documents Folder`
 
-#### 2) Copy `settings.json` and paste it in Windows Terminal `settings.json`
+#### 2) Copy code from `settings.json` and paste it in Windows Terminal `settings.json`
